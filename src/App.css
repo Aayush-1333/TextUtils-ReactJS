@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.navbar{
+  background-color: black;
+  padding: 20px;
+  display: flex;
+}
+
+.navItem {
+  flex-grow: 0.06;
+  color: white;
+  text-decoration: none;
+}
+
+.content {
+  background-color: bisque;
+  height: 100vh;
+}
+
